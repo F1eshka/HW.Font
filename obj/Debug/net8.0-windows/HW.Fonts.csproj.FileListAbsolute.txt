@@ -1,0 +1,16 @@
+C:\Users\Rog\source\repos\HW.Fonts\HW.Fonts\bin\Debug\net8.0-windows\HW.Fonts.exe
+C:\Users\Rog\source\repos\HW.Fonts\HW.Fonts\bin\Debug\net8.0-windows\HW.Fonts.deps.json
+C:\Users\Rog\source\repos\HW.Fonts\HW.Fonts\bin\Debug\net8.0-windows\HW.Fonts.runtimeconfig.json
+C:\Users\Rog\source\repos\HW.Fonts\HW.Fonts\bin\Debug\net8.0-windows\HW.Fonts.dll
+C:\Users\Rog\source\repos\HW.Fonts\HW.Fonts\bin\Debug\net8.0-windows\HW.Fonts.pdb
+C:\Users\Rog\source\repos\HW.Fonts\HW.Fonts\obj\Debug\net8.0-windows\HW.Fonts.Form1.resources
+C:\Users\Rog\source\repos\HW.Fonts\HW.Fonts\obj\Debug\net8.0-windows\HW.Fonts.csproj.GenerateResource.cache
+C:\Users\Rog\source\repos\HW.Fonts\HW.Fonts\obj\Debug\net8.0-windows\HW.Fonts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\HW.Fonts\HW.Fonts\obj\Debug\net8.0-windows\HW.Fonts.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\HW.Fonts\HW.Fonts\obj\Debug\net8.0-windows\HW.Fonts.AssemblyInfo.cs
+C:\Users\Rog\source\repos\HW.Fonts\HW.Fonts\obj\Debug\net8.0-windows\HW.Fonts.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW.Fonts\HW.Fonts\obj\Debug\net8.0-windows\HW.Fonts.dll
+C:\Users\Rog\source\repos\HW.Fonts\HW.Fonts\obj\Debug\net8.0-windows\refint\HW.Fonts.dll
+C:\Users\Rog\source\repos\HW.Fonts\HW.Fonts\obj\Debug\net8.0-windows\HW.Fonts.pdb
+C:\Users\Rog\source\repos\HW.Fonts\HW.Fonts\obj\Debug\net8.0-windows\HW.Fonts.genruntimeconfig.cache
+C:\Users\Rog\source\repos\HW.Fonts\HW.Fonts\obj\Debug\net8.0-windows\ref\HW.Fonts.dll
